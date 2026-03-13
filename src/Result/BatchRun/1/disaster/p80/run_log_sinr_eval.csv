@@ -1,0 +1,4 @@
+radius_km,time,csv,disaster_mode,real_cap_mbps,sinr_p5_db,sinr_std_db,sinr_mean_db,low_quality_rate,total_pts
+1.0,260131-110113,HAPS_beamlist_r1km_p0.8_disaster_cx21_cy25_r18.csv,True,3148.2911443710327,3.2436468601226807,1.3736378,5.6008153,0.0017761989342806395,1689
+2.0,260131-110119,HAPS_beamlist_r2km_p0.8_disaster_cx21_cy25_r18.csv,True,1476.457448005676,7.279380226135254,1.6904583,10.048947,0.0,1689
+3.0,260131-110123,HAPS_beamlist_r3km_p0.8_disaster_cx21_cy25_r18.csv,True,741.935288111369,7.98011360168457,1.9248374,11.168805,0.0,1689
