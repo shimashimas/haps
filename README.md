@@ -19,3 +19,5 @@ src/
 ├─ simulation_bandwidth_mp2_haps*.py
 ├─ database/
 └─ japan*.json / geojson
+
+ファイル名のdはdisaster、sはsingleを指す
