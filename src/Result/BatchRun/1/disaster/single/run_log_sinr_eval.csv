@@ -1,0 +1,2 @@
+radius_km,time,csv,disaster_mode,real_cap_mbps,sinr_p5_db,sinr_std_db,sinr_mean_db,low_quality_rate,total_pts
+18.0,260131-112827,HAPS_beamlist_single_r18km.csv,True,56.87027454376221,3.6282289028167725,4.9260116,7.996855,0.0,1689
